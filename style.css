@@ -1,0 +1,125 @@
+
+
+.title{
+  color:rgb(58,198,0);
+  text-align:center;
+  font-family:verdana;
+  padding-top: 100px;
+
+}
+
+
+
+ header{
+  background-image: url(logo.png);
+  background-size: 20%;
+  background-repeat: no-repeat;
+  background-position: center;
+
+}
+
+
+.input{
+text-align: center;
+padding:6px;
+background-color: rgb(58, 198, 0);
+background-size:500px;
+
+
+
+}
+
+.gino{
+  font-size:25px;
+  color:white;
+  font-family:mongolian;
+
+
+}
+
+.carica{
+  font-family:Mongolian;
+  font-size: 17px;
+  color:white;
+}
+
+.arancione{
+ width: 400px;
+ height: 25px;
+ border-radius:15px 20px;
+ background-color:orange;
+
+
+ }
+
+ .mike{
+   font-size: 25px;
+   font-family: Mongolian;
+   color: white;
+
+ }
+
+.via{
+  font-family: mongolian;
+  font-size: 17px;
+  color:white;
+
+}
+
+.verde{
+  width:600px;
+  height: 25px;
+  border-radius: 15px 20px;
+  background-color: rgb(56,198, 0);
+}
+
+.fede{
+  font-size: 25px;
+  font-family: Mongolian;
+  color: white;
+
+
+}
+
+.menta{
+  font-family: mongolian;
+  font-size: 17px;
+  color:white;
+
+}
+
+.rosso{
+  width: 250px;
+  height: 25px;
+  border-radius: 15px 20px;
+  background-color: rgb(255, 0, 0);
+}
+
+
+#quadrato{
+width:900px;
+height: 750px;
+background-color: rgba(0, 0, 0, 0.5);
+color:white;
+border-radius: 10px;
+margin-left: 270px;
+
+
+}
+
+
+
+body{
+  background-image: url(background.jpg);
+  background-size:100%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+span{
+  color: white;
+}
+
+div{
+  color: white;
+}
